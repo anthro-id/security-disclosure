@@ -27,7 +27,7 @@ As a token of appreciation, we can give you a honorable mention in our Platform.
 
 And for medium-critical severity reports, we can ship an electronic certificate signed by PSrE Indonesia to your Anthro Indonesia's account. The eligibility is to have at least 3 medium and/or 1 critical severity reported issues.
 
-If you don't know what PSrE Indonesia is, it's an Indonesia's state-recognized certification authority under the Ministry of Communication and Digital Affairs (Komdigi). The authenticity can be validated [here](https://tte.komdigi.go.id).
+If you don't know what PSrE Indonesia is, it's an Indonesia's state-recognized certification authority under the Ministry of Communication and Digital Affairs (Komdigi). The authenticity can be validated [here](https://tte.komdigi.go.id/verifyPDF).
 
 # Program Rules
 - We're currently accepting vulnerability reports in English (preferred) or Indonesia language.
