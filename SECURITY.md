@@ -1,4 +1,3 @@
-# Security Disclosure Program
 ![img](https://canine.cdn.anthro.id/handled-by-anthroid-team/14-04-26/19f623f8-7ee7-4a4d-bf12-fdcbc4c054e8)
 
 <!-- >anthro.id/start<-->
